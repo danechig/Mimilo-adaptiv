@@ -1003,7 +1003,7 @@ header{
       height: 40px !important;
       margin-left: -30px !important;
       margin-top: 265px !important;
-  }
+    }
     .container-love{
       margin-top: 0px !important;
       width: 295px !important;
@@ -1386,11 +1386,11 @@ header{
     top: 2%;
 }
 .block-history .bottle {
-    width: 150px;
-    height: 150px;
+    width: 120px;
     position: relative;
-    left: 37%;
-    top: 99px;
+    left: 39%;
+    top: 53px;
+    height: 120px;
 }
 .principle p {
     font-size: 16px !important;
